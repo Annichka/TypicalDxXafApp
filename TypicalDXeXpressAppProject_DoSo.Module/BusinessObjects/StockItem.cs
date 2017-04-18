@@ -8,9 +8,7 @@ namespace TypicalDXeXpressAppProject_DoSo.Module.BusinessObjects
     {
         // now update line 9
 
-        // Mater commit 1
-
-        // comment on line 
+        //hotfix N1
         public StockItem(Session session) : base(session)
         { }
         public string ItemName { get; set; }

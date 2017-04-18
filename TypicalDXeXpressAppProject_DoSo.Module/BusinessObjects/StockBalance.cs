@@ -9,8 +9,9 @@ namespace TypicalDXeXpressAppProject_DoSo.Module.BusinessObjects
     [DefaultClassOptions]
     public class StockBalance : XPLiteObjectBase
     { 
-
-        // test master 2
+        // hotfix N1 
+        // hotfix N2
+       
         public StockBalance(Session session) : base(session) {}
 
         [Association]
