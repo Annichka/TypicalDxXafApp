@@ -12,7 +12,7 @@ namespace TypicalDXeXpressAppProject_DoSo.Module.BusinessObjects
 
         // test master 2
         public StockBalance(Session session) : base(session) {}
-
+        //dsfsdfdsfds
         [Association]
         public StockItem StockItem { get; set; }
 
