@@ -10,6 +10,6 @@ namespace TypicalDXeXpressAppProject_DoSo.Module.BusinessObjects
         // mater 
         //khjgjrfgfdgfd
         [Association]dfgfd
-        public Customer Customer { get; set; }
+        public Customer Customer { get; dsfdsfdsset; }
     }
 }
