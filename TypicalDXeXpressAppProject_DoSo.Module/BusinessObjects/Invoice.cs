@@ -12,4 +12,4 @@ namespace TypicalDXeXpressAppProject_DoSo.Module.BusinessObjects
         [Association]dfgfdvxvxcsadasdas
         public Customer Customer { get; dsfdsfdsset; }
     }
-}
+}fsdfsdf
