@@ -12,6 +12,7 @@ namespace TypicalDXeXpressAppProject_DoSo.Module.BusinessObjects
 
         // hotfix N1 
         // hotfix N2
+       
         public StockBalance(Session session) : base(session) {}
 
         [Association]
