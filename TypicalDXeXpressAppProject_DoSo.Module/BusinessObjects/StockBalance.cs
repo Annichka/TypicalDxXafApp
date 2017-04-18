@@ -14,6 +14,8 @@ namespace TypicalDXeXpressAppProject_DoSo.Module.BusinessObjects
        
         public StockBalance(Session session) : base(session) {}
         // Developement branch
+
+            //dev 22222
         [Association]
         public StockItem StockItem { get; set; }
 
