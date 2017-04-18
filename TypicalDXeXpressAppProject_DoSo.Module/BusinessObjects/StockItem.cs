@@ -6,9 +6,9 @@ namespace TypicalDXeXpressAppProject_DoSo.Module.BusinessObjects
     [DefaultClassOptions]
     public class StockItem : XPLiteObjectBase
     {
-        // Mater commit 1
+        // now update line 9
 
-        // comment on line 9
+        //hotfix N1
         public StockItem(Session session) : base(session)
         { }
         public string ItemName { get; set; }
