@@ -9,7 +9,7 @@ namespace TypicalDXeXpressAppProject_DoSo.Module.BusinessObjects
         public Invoice(Session session) : base(session) { }
         // mater 
         //khjgjrfgfdgfd
-        [Association]dfgfd
+        [Association]dfgfdvxvxc
         public Customer Customer { get; dsfdsfdsset; }
     }
 }
