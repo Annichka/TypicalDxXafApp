@@ -13,7 +13,7 @@ namespace TypicalDXeXpressAppProject_DoSo.Module.BusinessObjects
         // hotfix N2
        
         public StockBalance(Session session) : base(session) {}
-
+        // Developement branch
         [Association]
         public StockItem StockItem { get; set; }
 
