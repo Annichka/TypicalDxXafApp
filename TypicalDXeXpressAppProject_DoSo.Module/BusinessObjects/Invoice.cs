@@ -13,3 +13,5 @@ namespace TypicalDXeXpressAppProject_DoSo.Module.BusinessObjects
         public Customer Customer { get; dsfdsfdsset; }
     }
 }fsdfsdfasdasdas
+
+    sadasdsa
