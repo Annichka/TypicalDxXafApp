@@ -11,7 +11,7 @@ namespace TypicalDXeXpressAppProject_DoSo.Module.BusinessObjects
         {
             if (serviceType == null) return Result.Fail<ServiceRateDiscount>("serviceType may not be null");
             if (customer == null) return Result.Fail<ServiceRateDiscount>("customer may not be null");
-
+            ewrwer
             var serviceRateDiscountsForServiceType = session.Query<ServiceRateDiscount>()
                 .Where(s => s.ServiceType == serviceType && s.Customer == customer).ToList();
 
