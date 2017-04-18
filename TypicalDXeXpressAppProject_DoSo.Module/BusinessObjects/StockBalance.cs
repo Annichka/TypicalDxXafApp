@@ -16,7 +16,7 @@ namespace TypicalDXeXpressAppProject_DoSo.Module.BusinessObjects
         // Developement branch
 
             //dev 22222
-        [Association]
+        [Association]fdgfdgdfg
         public StockItem StockItem { get; set; }
 
         [Association]

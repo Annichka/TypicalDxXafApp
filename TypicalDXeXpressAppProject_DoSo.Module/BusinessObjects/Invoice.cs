@@ -7,7 +7,7 @@ namespace TypicalDXeXpressAppProject_DoSo.Module.BusinessObjects
     public class Invoice : XPLiteObjectBase
     {
         public Invoice(Session session) : base(session) { }
-
+        // mater 1
         [Association]
         public Customer Customer { get; set; }
     }
