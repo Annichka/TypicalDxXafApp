@@ -65,3 +65,4 @@ namespace TypicalDXeXpressAppProject_DoSo.Module.BusinessObjects
     mm4
     
     dev1
+    dev2
