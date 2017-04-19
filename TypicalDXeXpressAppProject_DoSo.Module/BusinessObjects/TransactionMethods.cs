@@ -57,3 +57,4 @@ namespace TypicalDXeXpressAppProject_DoSo.Module.BusinessObjects
     assad
 
     asd2
+    asdf3
